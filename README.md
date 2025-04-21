@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am a member of the Bits and Bots Groups
 
 <!--
 **Claire-55/Claire-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
